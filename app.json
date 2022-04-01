@@ -16,27 +16,27 @@
       "inline"
     ],
     "website": "https://github.com/DalinMathew/AutoFilterBotV3",
-    "repository": "https://github.com/DalinMathew/AutoFilterBotV3",
+    "repository": "https://github.com/githubaccountttyu/AutoFilterBotV3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
-            "value": ""
+            "value": "5261490654:AAGAhzPPpFHvLaYRwMFy2JQ9-gMW5PHqDu8"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "11574784"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "f3a679a6171fb564f6d8b8ba8bf777de"
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
-            "value": ""
+            "value": "-1001601702790"
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
-            "value": ""
+            "value": "1000323248"
         },
         "AUTH_USERS": {
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
@@ -75,11 +75,11 @@
         },
         "DATABASE_2": {
             "description": "mongoDB URI. Get this value from https://www.mongodb.com ",
-            "value": ""
+            "value": "mongodb+srv://james:<james>@cluster0.zz5dh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
         },
         "BOT_NAME": {
             "description": "Name of the database in mongoDB ",
-            "value": "LuciferMoringstar_Robot"
+            "value": "jamesbondfiles_Robot"
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
@@ -103,12 +103,12 @@
         },
         "ADMIN_ID": {
             "description": "Control BroadCast",
-            "value": "",
+            "value": "1000323248",
             "required": true
         },
         "BROADCAST_CHANNEL": {
             "description": "ID of a Channel (user Notification)",
-            "value": "",
+            "value": "-1001601702790",
             "required": true
         }
     },
